@@ -1,4 +1,8 @@
 This file is for Exercise 04 - Git Branches and Merges
 
+<<<<<<< HEAD
 
 This line was added after the modification on the 'development' branch.
+=======
+This content was added on the "develpment" branch.
+>>>>>>> development
